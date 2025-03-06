@@ -10,15 +10,14 @@ This project focuses on forecasting airport passenger traffic using various time
 
 ## Screenshots
 
-![Alt Text](images/scaled_distribution)
 
-![Alt Text](https://github.com/NAMANNIMBLE1/Airport_passengers_forecasting/blob/main/images/Screenshot%202025-03-06%20135532.png)
+![Alt Text]()
 
-![Alt Text](https://github.com/NAMANNIMBLE1/Airport_passengers_forecasting/blob/main/images/Screenshot%202025-03-06%20135538.png)
+![Alt Text]()
 
-![Alt Text](https://github.com/NAMANNIMBLE1/Airport_passengers_forecasting/blob/main/images/Screenshot%202025-03-06%20135545.png)
+![Alt Text]()
 
-![Alt Text](https://github.com/NAMANNIMBLE1/Airport_passengers_forecasting/blob/main/images/Screenshot%202025-03-06%20135551.png)
+![Alt Text]()
 
 ## Techniques 
 
